@@ -20,6 +20,6 @@ nav_order: 2
 ### Works in Progress:
 ---
 
-- **Are Twitter Users Informed about Stocks?**, with Ali Kakhbod and Peiyao Li
-- **Heterogeneity in Twitter: A Topic Modeling Approach**, with Ali Kakhbod
-- **Government Subsidies and Industry Concentration**, with Gustavo Grullon and Yessenia Tellez
+# - **Are Twitter Users Informed about Stocks?**, with Ali Kakhbod and Peiyao Li
+# - **Heterogeneity in Twitter: A Topic Modeling Approach**, with Ali Kakhbod
+# - **Government Subsidies and Industry Concentration**, with Gustavo Grullon and Yessenia Tellez
