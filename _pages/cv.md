@@ -7,8 +7,8 @@ nav_order: 3
 cv_pdf: CV.pdf
 ---
 
-<object data="https://smkazempour.com/CV.pdf" type="application/pdf" width=100% height=100%>
-    <embed src="https://smkazempour.com/CV.pdf">
-        <p>It seems your browser does not support PDFs. Please download the PDF to view it: <a href="http://smkazempour.com/CV.pdf">Download PDF</a>.</p>
+<object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" width="800" height="800">
+    <embed src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">
+        <p>It seems your browser does not support PDFs. Please download the PDF to view it: <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">Download PDF</a>.</p>
     </embed>
 </object>
