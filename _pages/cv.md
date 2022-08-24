@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 permalink: /CV/
 title: CV
 nav: true
