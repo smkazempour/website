@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: flase # crops the image to make it circular
   address: >
-    <p>Jones Graduate School of Business</p>
+    <p>Jones School of Business</p>
     <p>1900 Rice Boulevard</p>
     <p>Houston, Texas 77005</p>
 
