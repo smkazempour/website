@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a Finance Ph.D. Candidate at the Jones Graduate School of Business, Rice University. My main area of research is asset pricing. More specifically, I focus on the application of machine learning and alternative data in evaluating investments. Prior to joining the Jones School, I obtained my B.Sc. from Sharif University of Technology in 2014, and M.Sc. from Rice University in 2017, both in Elecrical Engineering.
 
-I will be available for job interviews in Fall 2022.
+I will be available for job interviews in Fall 2022. You can contact me at [smkazempour@rice.edu](mailto:smkazempour@rice.edu).
