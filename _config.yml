@@ -216,8 +216,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Kazempour
+  first_name: Seyed Mohammad
 
   style: apa
   locale: en
