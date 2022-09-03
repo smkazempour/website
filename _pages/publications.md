@@ -1,13 +1,14 @@
 ---
 layout: page
-permalink: /papers/
-title: Papers
+permalink: /research/
+title: Research
 description:
 years: [2022,2021]
 nav: true
 nav_order: 2
 ---
 <!-- _pages/publications.md -->
+### Papers
 <div class="publications">
 
 {%- for y in page.years %}
