@@ -28,7 +28,7 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title"><a href="{{entry.doi}}">{{entry.title}}<\a></div>
+          <a href="{{entry.doi}}"><div class="title">{{entry.title}}</div><\a>
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
