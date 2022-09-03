@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /papers/
+title: Papers
 description:
 years: [2022,2021]
 nav: true
