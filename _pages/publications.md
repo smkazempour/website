@@ -25,5 +25,3 @@ nav_order: 2
 
 
 - **Are Twitter Users Informed about Stocks?**, with Ali Kakhbod.
-- **Beyond Sentiment: Predicting Returns Using Twitter Content**, with Ali Kakhbod.
-- **Unintended Consequences of Government Contracts**, with Gustavo Grullon and Yessenia Tellez.
