@@ -24,4 +24,5 @@ nav_order: 2
 ---
 
 
-- **Are Twitter Users Informed about Stocks?**, with Ali Kakhbod.\A draft of this paper is coming soon.
+- **Are Twitter Users Informed about Stocks?**, with Ali Kakhbod.  
+A draft of this paper is coming soon.
